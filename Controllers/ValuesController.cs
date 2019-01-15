@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using MySql.Data.MySqlClient;
 using Test;
 
 namespace _20190115.Controllers
@@ -15,9 +16,25 @@ namespace _20190115.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            Class1 c1 = new Class1();
+            //Class1 c1 = new Class1();
+            Database db = new Database();
+
+//dotnet add package MySql.Data.EntityFrameworkCore --version 8.0.13 설치 필요
+            
+            MySqlConnection conn = db.GetConnection();
+            
+            if(conn == null)
+            {
+                Console.WriteLine("conn == null");
+            }
+            else
+            {
+                Console.WriteLine("접속 성공");
+            }
+            
+            
             Console.WriteLine("===========================");
-            Console.WriteLine(c1.GetInt());
+            //Console.WriteLine(c1.GetInt());
             Console.WriteLine("===========================");
             return new string[] { "value1", "value2" };
         }
