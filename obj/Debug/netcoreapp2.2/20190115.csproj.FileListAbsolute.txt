@@ -1,0 +1,14 @@
+/root/20190115/bin/Debug/netcoreapp2.2/20190115.deps.json
+/root/20190115/bin/Debug/netcoreapp2.2/20190115.runtimeconfig.json
+/root/20190115/bin/Debug/netcoreapp2.2/20190115.runtimeconfig.dev.json
+/root/20190115/bin/Debug/netcoreapp2.2/20190115.dll
+/root/20190115/bin/Debug/netcoreapp2.2/20190115.pdb
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.csprojAssemblyReference.cache
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.csproj.CoreCompileInputs.cache
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.RazorAssemblyInfo.cache
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.RazorAssemblyInfo.cs
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.AssemblyInfoInputs.cache
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.AssemblyInfo.cs
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.RazorTargetAssemblyInfo.cache
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.dll
+/root/20190115/obj/Debug/netcoreapp2.2/20190115.pdb
