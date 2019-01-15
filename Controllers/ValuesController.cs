@@ -33,9 +33,9 @@ namespace _20190115.Controllers
             }
             
             
-            Console.WriteLine("===========================");
+            //Console.WriteLine("===========================");
             //Console.WriteLine(c1.GetInt());
-            Console.WriteLine("===========================");
+            //Console.WriteLine("===========================");
             return new string[] { "value1", "value2" };
         }
 
