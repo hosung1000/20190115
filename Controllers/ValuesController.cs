@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Test;
 
 namespace _20190115.Controllers
 {
@@ -14,6 +15,10 @@ namespace _20190115.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            Class1 c1 = new Class1();
+            Console.WriteLine("===========================");
+            Console.WriteLine(c1.GetInt());
+            Console.WriteLine("===========================");
             return new string[] { "value1", "value2" };
         }
 
