@@ -12,3 +12,17 @@
 /root/20190115/obj/Debug/netcoreapp2.2/20190115.RazorTargetAssemblyInfo.cache
 /root/20190115/obj/Debug/netcoreapp2.2/20190115.dll
 /root/20190115/obj/Debug/netcoreapp2.2/20190115.pdb
+C:\github\190115\20190115\bin\Debug\netcoreapp2.2\20190115.deps.json
+C:\github\190115\20190115\bin\Debug\netcoreapp2.2\20190115.runtimeconfig.json
+C:\github\190115\20190115\bin\Debug\netcoreapp2.2\20190115.runtimeconfig.dev.json
+C:\github\190115\20190115\bin\Debug\netcoreapp2.2\20190115.dll
+C:\github\190115\20190115\bin\Debug\netcoreapp2.2\20190115.pdb
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.csprojAssemblyReference.cache
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.csproj.CoreCompileInputs.cache
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.RazorAssemblyInfo.cache
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.RazorAssemblyInfo.cs
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.AssemblyInfoInputs.cache
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.AssemblyInfo.cs
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.RazorTargetAssemblyInfo.cache
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.dll
+C:\github\190115\20190115\obj\Debug\netcoreapp2.2\20190115.pdb
